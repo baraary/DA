@@ -1,0 +1,15 @@
+{
+  "name": "دستیار آمار دکتر دوانلو",
+  "short_name": "دستیار دوانلو",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#04060a",
+  "theme_color": "#04060a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><rect width='24' height='24' rx='6' fill='%2338bdf8'/><path d='M9.5 2h5l1 3.5h-7L9.5 2z' stroke='%2304060a' stroke-width='2' fill='none'/><path d='M7 5.5h10' stroke='%2304060a' stroke-width='2' stroke-linecap='round'/><path d='M8.5 9.5a5.5 5.5 0 0 0 7 0' stroke='%2304060a' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M6 13.5a9 9 0 0 0 12 0' stroke='%2304060a' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M3.5 17.5a12.5 12.5 0 0 0 17 0' stroke='%2304060a' stroke-width='2' fill='none' stroke-linecap='round'/><line x1='20.5' y1='5' x2='12' y2='13.5' stroke='%2304060a' stroke-width='2.2' stroke-linecap='round'/><circle cx='12' cy='13.5' r='1.5' fill='%2304060a'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
