@@ -1,0 +1,6 @@
+{
+  "name": "دستیار آمار دکتر دوانلو",
+  "description": "سامانه هوشمند ثبت آمار، مشاوره‌های بخش، پروسیجرها، ساسپند تصویربرداری و مدیریت وظایف بالینی دکتر دوانلو با قابلیت مرتب‌سازی Drag & Drop و همگام‌سازی ابری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
